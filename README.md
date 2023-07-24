@@ -1,3 +1,3 @@
 # sonid.com.np
 
-[a link](https://sonid.com.np/)
+[Visit the website](https://sonid.com.np/)
